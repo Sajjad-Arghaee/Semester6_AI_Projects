@@ -1,1 +1,1 @@
-# Semester6_Projects
+# Semester6_AI_Projects
